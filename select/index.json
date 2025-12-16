@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "吾輩は人である",
+  "base_artist": "Tani Yuuki",
+  "createdAt": "2025-12-16T12:32:58.727997Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "吾輩は人である",
+      "artist": "Tani Yuuki",
+      "has_synced": false,
+      "path": "select/pl_01_吾輩は人である_Tani_Yuuki.txt"
+    }
+  ]
+}
